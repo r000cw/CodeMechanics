@@ -1,0 +1,7 @@
+{
+  "assets/javascripts/bundle.js": "assets/javascripts/bundle.min.js",
+  "assets/javascripts/vendor.js": "assets/javascripts/vendor.min.js",
+  "assets/javascripts/worker/search.js": "assets/javascripts/worker/search.min.js",
+  "assets/stylesheets/main.css": "assets/stylesheets/main.min.css",
+  "assets/stylesheets/palette.css": "assets/stylesheets/palette.min.css"
+}
